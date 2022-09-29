@@ -92,13 +92,13 @@ body {
 
 .msg1 {
   width: fit-content;
+  max-width: 250px;
   background: #2D37A6;
   color: white;
-  border-radius: 0 10px 10px 10px;
+  border-radius: 10px;
   padding: 3px;
   font-size: 25px;
-  margin-top: -20px;
-  margin-left: 20px;
+  margin-top: -16px;
 }
 
 .msg2 {
@@ -117,7 +117,7 @@ body {
 
 .name1 {
   width: fit-content;
-  background: #2D37A6;
+  background: #42445A;
   color: white;
   border-radius: 10px 10px 0 10px;
   padding: 3px;
